@@ -1,6 +1,6 @@
 # Salut !
 
-### Étudiant L3 Informatique | Full-Stack Developer | Cybersecurity Enthusiast
+### Étudiant L3 Informatique | Full-Stack Developer | Cybersecurity 
 
 ---
 
