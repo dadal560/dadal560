@@ -33,25 +33,6 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 
 ---
 
-## Projets Spotlight
-
-### Application Vue.js/Symfony Full-Stack
-**Technologies :** Vue.js, Symfony, API REST  
-**Focus :** Architecture sécurisée, authentification robuste, API RESTful  
-[Lien vers le repository]
-
-### Scripts Python Cybersécurité  
-**Technologies :** Python, outils d'analyse, détection de vulnérabilités  
-**Focus :** Automatisation des tests de sécurité, analyse de logs  
-[Lien vers le repository]
-
-### [Autres projets]
-**Technologies :** [À compléter selon vos autres projets]  
-**Focus :** [Description courte]  
-[Lien vers le repository]
-
----
-
 ## En Apprentissage Continu
 
 - **Technologies cybersécurité avancées** (Pentesting, OSINT)
@@ -74,7 +55,6 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 ## 🎯 Objectifs 2025
 
 - [ ] Décrocher un **stage en développement/cybersécurité**
-- [ ] Contribuer à des **projets open-source** sécurisés
 - [ ] Obtenir une **certification cybersécurité**
 - [ ] Développer une **application complète** avec focus sécurité
 
@@ -85,7 +65,7 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@etudiant.univ-lr.fr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gwen.henry56@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://votre-portfolio.com)
 
 📍 **La Rochelle, France** | 🎓 **Ouvert aux opportunités de stage/alternance**
@@ -96,8 +76,6 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 
 <div align="center">
   
-*"La cybersécurité n'est pas une option, c'est une nécessité."* 🔐
-
 **⭐ N'hésitez pas à explorer mes repositories et à me contacter pour tout projet collaboratif !**
 
 </div>
