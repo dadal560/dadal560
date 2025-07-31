@@ -1,18 +1,17 @@
-# 👋 Salut ! Je suis [Votre Prénom] depuis La Rochelle 🌊
+# Salut ! La
 
-### 🎓 Étudiant L3 Informatique | 💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast
+### Étudiant L3 Informatique | Full-Stack Developer | Cybersecurity Enthusiast
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
 Passionné par le **développement web moderne** et la **sécurité informatique**, je crois fermement en une approche : **"Code sécurisé dès la conception"**. 
 
-Actuellement en Licence 3 Informatique à La Rochelle, je développe des applications robustes tout en gardant un œil expert sur les aspects sécuritaires. Mon objectif ? Devenir ce développeur full-stack qui comprend les enjeux cyber du monde moderne.
-
+Actuellement en Licence 3 Informatique à La Rochelle, je développe des applications robustes tout en gardant un œil expert sur les aspects sécuritaires. 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -33,31 +32,31 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 
 ---
 
-## 🎯 Projets Spotlight
+## Projets Spotlight
 
-### 🔥 Application Vue.js/Symfony Full-Stack
+### Application Vue.js/Symfony Full-Stack
 **Technologies :** Vue.js, Symfony, API REST  
 **Focus :** Architecture sécurisée, authentification robuste, API RESTful  
-🔗 *[Lien vers le repository]*
+[Lien vers le repository]
 
-### 🛡️ Scripts Python Cybersécurité  
+### Scripts Python Cybersécurité  
 **Technologies :** Python, outils d'analyse, détection de vulnérabilités  
 **Focus :** Automatisation des tests de sécurité, analyse de logs  
-🔗 *[Lien vers le repository]*
+[Lien vers le repository]
 
-### 💡 [Autres projets]
+### [Autres projets]
 **Technologies :** [À compléter selon vos autres projets]  
 **Focus :** [Description courte]  
-🔗 *[Lien vers le repository]*
+[Lien vers le repository]
 
 ---
 
-## 📚 En Apprentissage Continu
+## En Apprentissage Continu
 
-- 🔒 **Technologies cybersécurité avancées** (Pentesting, OSINT)
-- ⚡ **Frameworks modernes** (React, Next.js)  
-- 🚀 **DevSecOps** (CI/CD sécurisé, Infrastructure as Code)
-- 🤖 **Intelligence Artificielle** appliquée à la cybersécurité
+- **Technologies cybersécurité avancées** (Pentesting, OSINT)
+- **Frameworks modernes** (React, Next.js)  
+- **DevSecOps** (CI/CD sécurisé, Infrastructure as Code)
+- **Intelligence Artificielle** appliquée à la cybersécurité
 
 ---
 
