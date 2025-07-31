@@ -1,4 +1,4 @@
-# Salut ! La
+# Salut !
 
 ### Étudiant L3 Informatique | Full-Stack Developer | Cybersecurity Enthusiast
 
@@ -9,6 +9,7 @@
 Passionné par le **développement web moderne** et la **sécurité informatique**, je crois fermement en une approche : **"Code sécurisé dès la conception"**. 
 
 Actuellement en Licence 3 Informatique à La Rochelle, je développe des applications robustes tout en gardant un œil expert sur les aspects sécuritaires. 
+
 ---
 
 ## Stack Technique
@@ -63,12 +64,8 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadal560&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dadal560&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dadal560&theme=radical&hide_border=true&background=0d1117)
 
 </div>
 
