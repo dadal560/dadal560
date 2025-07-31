@@ -42,7 +42,7 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 
 ---
 
-## 🎯 Objectifs 2025
+## Objectifs 2025
 
 - [ ] Décrocher un **stage en développement/cybersécurité**
 - [ ] Obtenir une **certification cybersécurité**
@@ -60,7 +60,7 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 
 ---
 
-## 📫 Contact & Réseaux
+## Contact & Réseaux
 
 <div align="center">
 
@@ -76,6 +76,6 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 
 <div align="center">
   
-**⭐ N'hésitez pas à explorer mes repositories et à me contacter pour tout projet collaboratif !**
+** N'hésitez pas à explorer mes repositories et à me contacter pour tout projet collaboratif !**
 
 </div>
