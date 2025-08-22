@@ -36,7 +36,7 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 ## En Apprentissage Continu
 
 - **Technologies cybersécurité avancées** (Pentesting, OSINT)
-- **Frameworks modernes** (React, Next.js)  
+- **Frameworks modernes** (React, Next.js, Symfony, Flask)  
 - **DevSecOps** (CI/CD sécurisé, Infrastructure as Code)
 - **Intelligence Artificielle** appliquée à la cybersécurité
 
