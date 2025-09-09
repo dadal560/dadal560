@@ -31,17 +31,6 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
 
----
-
-## En Apprentissage Continu
-
-- **Technologies cybersécurité avancées** (Pentesting, OSINT)
-- **Frameworks modernes** (React, Next.js, Symfony, Flask)  
-- **DevSecOps** (CI/CD sécurisé, Infrastructure as Code)
-- **Intelligence Artificielle** appliquée à la cybersécurité
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -49,14 +38,6 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dadal560&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
 </div>
-
----
-
-## Objectifs 2025
-
-- [ ] Décrocher un **stage en développement/cybersécurité**
-- [ ] Obtenir une **certification cybersécurité**
-- [ ] Développer une **application complète** avec focus sécurité
 
 ---
 
