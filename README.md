@@ -47,7 +47,7 @@ Actuellement en Licence 3 Informatique à La Rochelle, je développe des applica
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gwen.henry56@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://votre-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://gwendalhenry.fr/)
 
 📍 **La Rochelle, France** | 🎓 **Ouvert aux opportunités de stage/alternance**
 
