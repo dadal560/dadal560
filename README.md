@@ -1,6 +1,6 @@
 # Salut !
 
-### Étudiant L3 Informatique | Full-Stack Developer | Cybersecurity 
+### Étudiant L3 Informatique
 
 ---
 
@@ -8,7 +8,7 @@
 
 Passionné par le **développement web moderne** et la **sécurité informatique**, je crois fermement en une approche : **"Code sécurisé dès la conception"**. 
 
-Actuellement en Licence 3 Informatique à La Rochelle, je développe des applications robustes tout en gardant un œil expert sur les aspects sécuritaires. 
+Actuellement en Licence 3 Informatique à La Rochelle, je développe des applications tout en gardant un œil sur les aspects sécuritaires. 
 
 ---
 
