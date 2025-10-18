@@ -6,9 +6,9 @@
 
 ## À propos de moi
 
-Passionné par l'**informatique** sous toutes ses formes, je m'intéresse particulièrement au **développement logiciel** et à la **sécurité des systèmes**. Ma devise : **"Code sécurisé dès la conception"**. 
+Passionné par l'**informatique** sous toutes ses formes, je m'intéresse particulièrement au **développement logiciel** et à la **sécurité des systèmes**.
 
-Actuellement en Licence 3 Informatique à La Rochelle, j'explore diverses facettes de l'informatique : du développement d'applications à l'administration système, en passant par l'analyse de sécurité et l'automatisation.
+Actuellement en Licence 3 Informatique à La Rochelle, j'explore différents aspects de l'informatique : du développement d'applications à l'administration système, en passant par l'analyse de sécurité et l'automatisation.
 
 
 ---
