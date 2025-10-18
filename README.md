@@ -4,21 +4,19 @@
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
 Passionné par l'**informatique** sous toutes ses formes, je m'intéresse particulièrement au **développement logiciel** et à la **sécurité des systèmes**. Ma devise : **"Code sécurisé dès la conception"**. 
 
 Actuellement en Licence 3 Informatique à La Rochelle, j'explore diverses facettes de l'informatique : du développement d'applications à l'administration système, en passant par l'analyse de sécurité et l'automatisation.
 
-💡 **Ma philosophie** : Rester polyvalent et curieux, tout en gardant un focus sur la qualité et la sécurité du code.
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 ### Langages de Programmation
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -55,12 +53,9 @@ Actuellement en Licence 3 Informatique à La Rochelle, j'explore diverses facett
 ![Security](https://img.shields.io/badge/Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
 
 **Compétences en sécurité :**
-- Analyse de vulnérabilités (OWASP Top 10)
 - Tests d'intrusion (Pentesting)
 - Sécurisation d'applications web
 - Scripting d'automatisation Python/Bash
-- Cryptographie et gestion des authentifications
-
 ---
 
 ## 📊 GitHub Stats
@@ -77,27 +72,15 @@ Actuellement en Licence 3 Informatique à La Rochelle, j'explore diverses facett
 
 ---
 
-## 🎯 Projets en Cours
+## Projets en Cours
 
-🔐 **Application de gestion sécurisée** - Développement d'une plateforme avec authentification avancée (2FA, JWT)  
-🌐 **Portfolio interactif** - Site vitrine avec Vue.js et animations modernes  
-🛡️ **Scripts de sécurité** - Automatisation de tests de vulnérabilités et d'audits de sécurité  
+**Application de gestion sécurisée** - Développement d'une plateforme avec authentification avancée (2FA, JWT)  
+**Scripts de sécurité** - Automatisation de tests de vulnérabilités et d'audits de sécurité  
 
----
 
-## 🏆 Réalisations
+## Formation & Certifications
 
-✅ Développement d'applications web full-stack avec Symfony & Vue.js  
-✅ Implémentation de systèmes d'authentification sécurisés  
-✅ Participation à des CTF (Capture The Flag) en cybersécurité  
-✅ Contribution à des projets open-source  
-
----
-
-## 📚 Formation & Certifications
-
-🎓 **Licence 3 Informatique** - Université de La Rochelle (2024-2025)  
-📜 Certifications en cours : **Sécurité des applications web**, **Docker & DevOps**
+**Licence 3 Informatique** - Université de La Rochelle (2024-2025) 
 
 ---
 
@@ -113,7 +96,7 @@ Je recherche activement des opportunités de **stage** dans les domaines suivant
 
 ---
 
-## 📫 Contact & Réseaux
+## Contact & Réseaux
 
 <div align="center">
 
