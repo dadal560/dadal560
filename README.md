@@ -80,7 +80,7 @@ Actuellement en Licence 3 Informatique à La Rochelle, j'explore différents asp
 
 ## Formation & Certifications
 
-**Licence 3 Informatique** - Université de La Rochelle (2024-2025) 
+**Licence 3 Informatique** - Université de La Rochelle (2025-2026) 
 
 ---
 
