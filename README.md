@@ -113,7 +113,7 @@ Je recherche activement des opportunités de **stage** dans les domaines suivant
 
 <div align="center">
   
-**N'hésitez pas à explorer mes repositories et à me contacter pour tout projet collaboratif !**
+**N'hésitez pas à explorer mes repositories et à me contacter pour tout projet collaboratif :)!**
 
 ⭐ **Si mes projets vous plaisent, n'hésitez pas à les star !** ⭐
 
