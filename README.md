@@ -74,7 +74,7 @@ Actuellement en Licence 3 Informatique à La Rochelle, j'explore différents asp
 ## Projets en Cours
 
 **Application de gestion sécurisée** - Développement d'une plateforme avec authentification avancée (2FA, JWT)  
-**Scripts de sécurité** - Automatisation de tests de vulnérabilités et d'audits de sécurité  
+**Dub Siren (Synthétiseur Audio)** - Conception d'un générateur d'effets sonores. Travail sur la synthèse d'ondes (Sinus/Carrée), les oscillateurs (LFO) et la modulation de fréquence.
 
 
 ## Formation & Certifications
