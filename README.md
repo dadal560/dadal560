@@ -8,7 +8,7 @@
 
 > **Recherche Stage (Avril 2026)**
 >
-> Je recherche un stage de **7 à 8 semaines** en **Traitement du Signal, Systèmes Embarqués ou Développement Backend**.
+> Je recherche un stage de **6 à 8 semaines** en **Traitement du Signal, Systèmes Embarqués ou Développement Backend**.
 >
 > **Mobilité :** La Rochelle & Lorient (Permis B)
 
