@@ -26,11 +26,10 @@ Actuellement en Licence 3, je m'oriente vers l'ingénierie logicielle avancée. 
 
 ## Projets Phares
 
-| Projet | Description Technique | Stack |
+Projet | Description Technique | Stack |
 | :--- | :--- | :--- |
-| **[Détection d'Anomalies ECG](https://github.com/dadal560/detection-anomalies-ecg)** | **Traitement du Signal / Data Science**<br>Analyse de séries temporelles cardiaques, filtrage de bruit et détection de pics (R-peaks) pour identifier des pathologies. | ![Python](https://img.shields.io/badge/Python-NumPy-blue) |
-| **[Red-Black Tree vs AVL](https://github.com/dadal560/TEA-BTree)** | **Algorithmique Système / C Bas Niveau**<br>Implémentation complète d'un **Arbre Rouge-Noir** générique (structure utilisée par le noyau Linux). Gestion manuelle de la mémoire et benchmark de performance contre AVL. | ![C](https://img.shields.io/badge/C-Générique-00599C) |
-
+| **[Détection d'Anomalies ECG](https://github.com/dadal560/detection-anomalies-ecg)** | **Deep Learning / Traitement du Signal**<br>Détection de pathologies cardiaques par **Auto-encodeur Convolutionnel (AE-CNN)** . Approche semi-supervisée permettant d'identifier 100% des anomalies inconnues (Classe V). Optimisé pour l'embarqué avec une inférence de **97,33 ms**. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange) ![Python](https://img.shields.io/badge/Python-Data_Science-blue) |
+| **[Red-Black Tree vs AVL](https://github.com/dadal560/TEA-BTree)** | **Algorithmique Système / C Bas Niveau**<br>Implémentation d'un **Arbre Rouge-Noir** générique (structure utilisée par le noyau Linux). Gestion manuelle de la mémoire, optimisation des rotations et benchmark comparatif de performance contre les arbres AVL. | ![C](https://img.shields.io/badge/C-Générique-00599C) ![Valgrind](https://img.shields.io/badge/Memory-Valgrind-red) |
 ---
 
 ## En cours de développement
