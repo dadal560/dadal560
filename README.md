@@ -18,7 +18,7 @@
 
 ## À propos
 
-Passionné par la complexité technique, je ne me contente pas d'utiliser des frameworks : je cherche à comprendre le fonctionnement bas niveau des systèmes.
+Passionné par la complexité technique, je ne me contente pas d'utiliser des frameworks : je cherche à comprendre le fonctionnement des systèmes.
 
 Actuellement en Licence 3, je m'oriente vers l'ingénierie logicielle avancée. Mes projets récents se concentrent sur l'optimisation algorithmique, l'analyse de signaux et la sécurité des systèmes.
 
