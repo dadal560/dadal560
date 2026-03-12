@@ -2,7 +2,7 @@
 
 # Gwendal Henry
 ### Étudiant L3 Informatique @ Université de La Rochelle
-**Ingénierie Logicielle | Signal & Systèmes | Backend**
+**Computer Vision | Intelligence Artificielle | Signal & Systèmes | Backend**
 
 ---
 
@@ -18,9 +18,7 @@
 
 ## À propos
 
-Passionné par la complexité technique, je ne me contente pas d'utiliser des frameworks : je cherche à comprendre le fonctionnement des systèmes.
-
-Actuellement en Licence 3, je m'oriente vers l'ingénierie logicielle avancée. Mes projets récents se concentrent sur l'optimisation algorithmique, l'analyse de signaux et la sécurité des systèmes.
+Actuellement en Licence 3, je m'oriente vers l'ingénierie logicielle de haut niveau. Mon parcours est marqué par une approche où l’optimisation algorithmique, la sécurité des systèmes et le traitement de signaux complexes sont centraux. Je me spécialise notamment dans le domaine de la Vision par Ordinateur et de l'Intelligence Artificielle, avec une forte appétence pour les problématiques de performance et d'implémentation bas niveau.
 
 ---
 
@@ -30,6 +28,7 @@ Projet | Description Technique | Stack |
 | :--- | :--- | :--- |
 | **[Détection d'Anomalies ECG](https://github.com/dadal560/detection-anomalies-ecg)** | **Deep Learning / Traitement du Signal**<br>Détection de pathologies cardiaques par **Auto-encodeur Convolutionnel (AE-CNN)** . Approche semi-supervisée permettant d'identifier 100% des anomalies inconnues (Classe V). Optimisé pour l'embarqué avec une inférence de **97,33 ms**. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange) ![Python](https://img.shields.io/badge/Python-Data_Science-blue) |
 | **[Red-Black Tree vs AVL](https://github.com/dadal560/TEA-BTree)** | **Algorithmique Système / C Bas Niveau**<br>Implémentation d'un **Arbre Rouge-Noir** générique (structure utilisée par le noyau Linux). Gestion manuelle de la mémoire, optimisation des rotations et benchmark comparatif de performance contre les arbres AVL. | ![C](https://img.shields.io/badge/C-Générique-00599C) ![Valgrind](https://img.shields.io/badge/Memory-Valgrind-red) |
+| **[Computer Vision Toolbox](https://github.com/dadal560)** | **Traitement d'Image & Vision**<br>Implémentation de briques algorithmiques : segmentation par **Transformée de Hough**, détection par **Cascades de Haar**, et extraction de points d'intérêt (**ORB**). | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) |
 ---
 
 ## En cours de développement
