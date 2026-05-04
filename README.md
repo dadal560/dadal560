@@ -1,37 +1,38 @@
 <div align="center">
 
 # Gwendal Henry
-### Étudiant L3 Informatique @ Université de La Rochelle
-**Computer Vision | Intelligence Artificielle | Signal & Systèmes | Backend**
+### Senior Undergraduate (L3) Computer Science Student @ University of La Rochelle
+**Computer Vision | Artificial Intelligence | Signal & Systems | Backend**
 
 </div>
 
-## À propos
+## About Me
 
-Actuellement en Licence 3, je m'oriente vers l'ingénierie logicielle de haut niveau. Mon parcours est marqué par une approche où l’optimisation algorithmique, la sécurité des systèmes et le traitement de signaux complexes sont centraux. Je me spécialise notamment dans le domaine de la Vision par Ordinateur et de l'Intelligence Artificielle, avec une forte appétence pour les problématiques de performance et d'implémentation bas niveau.
+Currently in my final year of a Bachelor's degree, I am focusing on high-level software engineering. My academic and personal path is driven by algorithmic optimization, system security, and complex signal processing. I specialize in Computer Vision and Artificial Intelligence, with a strong interest in performance challenges and low-level implementation.
 
 ---
 
-## Projets Phares
+## Key Projects
 
-Projet | Description Technique | Stack |
+| Project | Technical Description | Stack |
 | :--- | :--- | :--- |
-| **[Détection d'Anomalies ECG](https://github.com/dadal560/detection-anomalies-ecg)** | **Deep Learning / Traitement du Signal**<br>Détection de pathologies cardiaques par **Auto-encodeur Convolutionnel (AE-CNN)** . Approche semi-supervisée permettant d'identifier 100% des anomalies inconnues (Classe V). Optimisé pour l'embarqué avec une inférence de **97,33 ms**. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange) ![Python](https://img.shields.io/badge/Python-Data_Science-blue) |
-| **[Red-Black Tree vs AVL](https://github.com/dadal560/TEA-BTree)** | **Algorithmique Système / C Bas Niveau**<br>Implémentation d'un **Arbre Rouge-Noir** générique (structure utilisée par le noyau Linux). Gestion manuelle de la mémoire, optimisation des rotations et benchmark comparatif de performance contre les arbres AVL. | ![C](https://img.shields.io/badge/C-Générique-00599C) ![Valgrind](https://img.shields.io/badge/Memory-Valgrind-red) |
-| **[Computer Vision Toolbox](https://github.com/dadal560/Computer-Vision-Toolbox)** | **Traitement d'Image & Vision**<br>Implémentation de briques algorithmiques : segmentation par **Transformée de Hough**, détection par **Cascades de Haar**, et extraction de points d'intérêt (**ORB**). | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) |
+| **[ECG Anomaly Detection](https://github.com/dadal560/detection-anomalies-ecg)** | **Deep Learning / Signal Processing**<br>Cardiac pathology detection using a **Convolutional Auto-encoder (AE-CNN)**. Semi-supervised approach identifying 100% of unknown anomalies (Class V). Optimized for embedded systems with a **97.33 ms** inference time. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange) ![Python](https://img.shields.io/badge/Python-Data_Science-blue) |
+| **[Red-Black Tree vs AVL](https://github.com/dadal560/TEA-BTree)** | **System Algorithms / Low-level C**<br>Implementation of a generic **Red-Black Tree** (the structure used by the Linux kernel). Features manual memory management, rotation optimization, and a performance benchmark against AVL trees. | ![C](https://img.shields.io/badge/C-Generic-00599C) ![Valgrind](https://img.shields.io/badge/Memory-Valgrind-red) |
+| **[Computer Vision Toolbox](https://github.com/dadal560/Computer-Vision-Toolbox)** | **Image Processing & Vision**<br>Implementation of core algorithmic components: segmentation via **Hough Transform**, detection using **Haar Cascades**, and **ORB** feature extraction. | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) |
+
 ---
 
-## En cours de développement
+## Current Development
 
-| Projet | Challenge Technique |
+| Project | Technical Challenge |
 | :--- | :--- |
-| **Dub Siren (Synthétiseur)** | **DSP (Digital Signal Processing)**<br>Projet de synthèse audio temps réel. Travail sur la génération d'ondes, les oscillateurs (LFO) et la modulation de fréquence. |
+| **Dub Siren (Synthesizer)** | **Analog Electronics & Audio**<br>Design of a real-time analog audio synthesizer. Focus on waveform generation, Low-Frequency Oscillators (LFO), and frequency modulation (FM) via hardware circuitry. |
 
 ---
 
-## Compétences Techniques (Stack)
+## Technical Skills (Stack)
 
-### Systèmes & Bas Niveau
+### Systems & Low-Level
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -43,7 +44,7 @@ Projet | Description Technique | Stack |
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=pandas&logoColor=black)
 
-### Backend & Logiciel
+### Backend & Software
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
@@ -56,11 +57,11 @@ Projet | Description Technique | Stack |
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Bases de Données
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps & Outils
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
